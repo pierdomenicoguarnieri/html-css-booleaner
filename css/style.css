@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+}
+
+header{
+  height: 175px;
+  background-color: #4EA0FF;
+  background-image: url("../img/pattern.png");
+}
+
+header img{
+  width: 200px;
+  padding-top: 100px;
+  padding-left: 10px;
+}
