@@ -1,0 +1,100 @@
+/* General */
+*{
+  margin: 0;
+}
+
+/* Header */
+header{
+  height: 175px;
+  background-color: #4EA0FF;
+  background-image: url("../img/pattern.png");
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+header img{
+  width: 250px;
+  padding-top: 100px;
+  padding-left: 10px;
+}
+
+/* Main */
+main{
+  padding-left: 10px;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+main section{
+  padding-top: 20px;
+}
+
+/* Sezione 1 */
+section h1{
+  font-size: 40px;
+  padding-top: 15px;
+}  
+
+.under-text{
+  color: #777777;
+}
+
+.small-text{
+  font-size: 14px;
+}
+
+#publisher{
+  color: #51BBEA;
+}
+
+/* Sezione 2 */
+div img{
+  height: 400px;
+}  
+
+/* Sezione 3 */
+.highlighted{
+  
+  background-color: yellow;
+}
+
+/* Sezione 4 */
+section ul{
+  padding-left: 10px;
+}
+
+/* Sezione 5 */
+thead{
+  background-color: #20A9E5;
+  color: white;
+  text-align: left;
+}
+
+.fixed-width{
+  width: 20%;
+}
+
+.row-colored{
+  background-color: #B1E5F2;
+}
+
+/* Sezione 7 */
+.article{
+  width: 200px;
+  height: 150px;
+  color: white;
+  padding: 10px;
+  font-weight: 800;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.article.image1{
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+}
+
+.article.image2{
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
+}
