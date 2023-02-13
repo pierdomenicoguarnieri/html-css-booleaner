@@ -1,7 +1,9 @@
+/* General */
 *{
   margin: 0;
 }
 
+/* Header */
 header{
   height: 175px;
   background-color: #4EA0FF;
@@ -9,7 +11,29 @@ header{
 }
 
 header img{
-  width: 200px;
+  width: 250px;
   padding-top: 100px;
   padding-left: 10px;
+}
+
+/* Main */
+main{
+  padding-left: 10px;
+}
+
+section h1{
+  font-size: 40px;
+  padding-top: 15px;
+}
+
+.under-text{
+  color: #777777;
+}
+
+.small-text{
+  font-size: 14px;
+}
+
+#publisher{
+  color: #51BBEA;
 }
