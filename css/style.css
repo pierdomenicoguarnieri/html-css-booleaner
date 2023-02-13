@@ -22,7 +22,7 @@ main{
 }
 
 main section{
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 section h1{
@@ -43,5 +43,47 @@ section h1{
 }
 
 div img{
-  width: 48%;
+  height: 450px;
+}
+
+.highlighted{
+  background-color: yellow;
+}
+
+section ul{
+  padding-left: 10px;
+}
+
+thead{
+  background-color: #20A9E5;
+  color: white;
+  text-align: left;
+}
+
+.fixed-width{
+  width: 20%;
+}
+
+.row-colored{
+  background-color: #B1E5F2;
+}
+
+.article{
+  width: 200px;
+  height: 150px;
+  color: white;
+  padding: 10px;
+  font-weight: 800;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.article.image1{
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+}
+
+.article.image2{
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
 }
