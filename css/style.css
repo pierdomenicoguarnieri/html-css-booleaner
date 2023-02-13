@@ -25,10 +25,11 @@ main section{
   padding-top: 20px;
 }
 
+/* Sezione 1 */
 section h1{
   font-size: 40px;
   padding-top: 15px;
-}
+}  
 
 .under-text{
   color: #777777;
@@ -42,18 +43,23 @@ section h1{
   color: #51BBEA;
 }
 
+/* Sezione 2 */
 div img{
   height: 450px;
-}
+}  
 
+/* Sezione 3 */
 .highlighted{
+  
   background-color: yellow;
 }
 
+/* Sezione 4 */
 section ul{
   padding-left: 10px;
 }
 
+/* Sezione 5 */
 thead{
   background-color: #20A9E5;
   color: white;
@@ -68,6 +74,7 @@ thead{
   background-color: #B1E5F2;
 }
 
+/* Sezione 7 */
 .article{
   width: 200px;
   height: 150px;
