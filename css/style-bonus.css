@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
 /* Header */
 header{
   height: 175px;
@@ -64,6 +68,10 @@ section ul{
 }
 
 /* Sezione 5 */
+table{
+  border-spacing: 0;
+}
+
 thead{
   background-color: #20A9E5;
   color: white;
